@@ -1,7 +1,7 @@
 🎨 Welcome to learn-css-with-suresh
 
 This repository is your go-to guide for mastering CSS from the ground up.  
-Built for students, powered by real-time examples, and taught with energy and clarity.
+Built for students, powered by real-time examples, and taught with energy and clarity
 
 ---
 
